@@ -1,1 +1,1 @@
-# Js-course_1
+# Js_course-1
